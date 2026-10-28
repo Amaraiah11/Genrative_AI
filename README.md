@@ -1,7 +1,7 @@
 # 🌌 Generative AI Architectures — Foundational Latent Diffusion & Transformer Models
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A75,50:A21CAF,100:E879F9&customColorList=701A75,A21CAF,E879F9&height=220&section=header&text=Generative%20AI%20Architectures&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Foundational%20Latent%20Diffusion%2C%20Transformers%20%26%20Synthetic%20Modeling&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Generative AI Architectures Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A75,50:A21CAF,100:E879F9&customColorList=701A75,A21CAF,E879F9&height=220&section=header&text=Generative%20AI%20Architectures&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Foundational%20Latent%20Diffusion%2C%20Transformers%20and%20Synthetic%20Modeling&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Generative AI Architectures Banner" />
 </p>
 
 <p align="center">
